@@ -1,0 +1,8 @@
+{
+  "name": "Remix Smart City Public Bus Tracker",
+  "description": "Smart public transit tracking, live arrival predictions, crowd monitoring, and daily route schedules for Coimbatore and Chennai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
